@@ -1,0 +1,48 @@
+body{
+    padding-bottom: 1000px;
+    background-color: gray;
+}
+body{
+    padding-bottom: 1000px;
+}
+.leftSide{
+    width: 49%;
+    float: left;
+}
+.right{
+    width:49%;
+    float: right;
+    border: 1px solid gray;
+    padding: 30px;
+}
+.sub{
+    margin-top: 30px;
+    background-color: rgb(13, 233, 24);
+    border: 1px solid black;
+    width: 80px;
+}
+.leftSide{
+    padding-left: 20px;
+}
+.images{
+    position: relative;
+}
+.hello{
+    position: absolute;
+    width: 60%;
+    text-align: center;
+    top: 30%;
+    left: 20%;
+}
+.text{
+    width: 80%;
+}
+button{
+    background-color:rgb(233, 18, 222);
+    border: 1px solid black;
+    width: 140px;
+    height: 40px;
+}
+button:hover{
+    background-color: gray;
+}

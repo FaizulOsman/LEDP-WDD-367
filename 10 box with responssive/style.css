@@ -1,0 +1,36 @@
+.container{
+    background-color: lightgray;
+    padding: 50px 0;
+}
+.textBorder{
+    border: 4px solid black;
+    text-align: center;
+    padding: 10px 50px;
+    margin: 0 50px;
+}
+.heading{
+    font-size: 35px;
+}
+@media screen and (max-width: 1200px) {
+    .textBorder{
+        border: 4px solid gray;
+    }
+}
+@media screen and (max-width: 991px) {
+    .textBorder{
+        border: 3px solid red;
+    }
+}
+@media screen and (max-width: 778px) {
+    .textBorder{
+        border: 2px solid green;
+    }
+}
+@media screen and (max-width: 480px) {
+    .textBorder{
+        border: 1px solid blue;
+    }
+    .heading{
+        font-size: 25px;
+    }
+}

@@ -1,0 +1,226 @@
+
+/* ====================================
+START
+=====================================*/
+header{
+	padding-bottom: 50px;
+	background-image: url("headerBg.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 470px;
+}
+.header{
+	position: relative;
+}
+.topicon{
+	float: right;
+}
+/* ====================================
+END
+=====================================*/
+/* ====================================
+START
+=====================================*/
+.slideTop{
+	position: absolute;
+	top: 20%;
+	left: 103px;
+}
+.imght{
+	width: 100%;
+	height: 600px;
+}
+/* ====================================
+END
+=====================================*/
+/* ====================================
+START
+=====================================*/
+
+.sndPrt{
+	padding: 300px 0 50px 0;
+}
+.heading{
+	text-align: center;
+	padding: 0 0 30px 0;
+}
+.aboutTxt{
+	font-size: 25px;
+}
+.imbth{
+	font-size: 50px;
+}
+
+
+/* ====================================
+END
+=====================================*/
+/* ====================================
+START
+=====================================*/
+main{
+	background-image: url("mainBg.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 70px 0 20px 0;
+}
+.girl{
+	width: 95%;
+}
+.z{
+	width: 49%;
+	padding: 0 10px 45px 0;
+}
+.carouselBg{
+	background-color: gray;
+	opacity: 50%;
+	
+}
+
+
+/* ====================================
+END
+=====================================*/
+/* ====================================
+START
+=====================================*/
+footer{
+	padding: 70px 0;
+}
+.name{
+	width: 95%;
+	height: 50px;
+	margin: 0 0 10px 0;
+	background-color: #ebebeb;
+	border: 2px solid lightgray;
+	border-radius: 5px;
+}
+.text{
+	width: 95%;
+	padding-bottom: 120px;
+	margin: 0 0 10px 0;
+	background-color: #ebebeb;
+	border: 2px solid lightgray;
+	border-radius: 5px;
+}
+.submit{
+	width: 30%;
+	height: 50px;
+	background-color: #ebebeb;
+	border: 2px solid lightgray;
+	border-radius: 5px;
+}
+.boy{
+	float: left;
+	padding: 0 20px 0 0;
+}
+.btmicon{
+	float: right;
+}
+/* ====================================
+END
+=====================================*/
+
+/* ====================================
+MEDIA START
+=====================================*/
+
+@media screen and (max-width: 1440px) {
+	.sndPrt{
+		padding-top: 390px;
+	}
+}
+@media screen and (max-width: 1365px) {
+	.slideTop{
+		left: 145px;
+	}
+	.sndPrt{
+		padding-top: 300px;
+	}
+	.imght{
+		width: 100%;
+		height: 500px;
+	}
+}
+@media screen and (max-width: 1350px) {
+	.slideTop{
+		left: 100px;
+	}
+}
+@media screen and (max-width: 1300px) {
+	.slideTop{
+		left: 80px;
+	}
+}
+@media screen and (max-width: 1300px) {
+	.slideTop{
+		left: 50px;
+	}
+}
+@media screen and (max-width: 1024px) {
+	.imght{
+		width: 100%;
+		height: 400px;
+	}
+	.slideTop{
+		top: 18%;
+		left: 30px;
+	}
+	.sndPrt{
+		padding-top: 100px;
+	}
+	main{
+		padding: 40px 0 10px 0;
+	}
+}
+@media screen and (max-width: 768px) {
+	header{
+		padding-top: 10px;
+	}
+	.imbth{
+		font-size: 30px;
+	}
+	.imght{
+		width: 100%;
+		height: 300px;
+	}
+	.slideTop{
+		left: 23px;
+	}
+	.sndPrt{
+		padding-top: 0;
+	}
+	.form{
+		padding-bottom: 30px;
+	}
+}
+@media screen and (max-width: 425px) {
+	.imbth{
+		font-size: 20px;
+	}
+	.slideTop{
+		position: absolute;
+		top: 15%;
+		left: 0px;
+	}
+	.imght{
+		width: 100%;
+		height: 160px;
+	}
+	header{
+		height: 300px;
+	}
+}
+@media screen and (max-width: 375px) {
+	
+}
+@media screen and (max-width: 320px) {
+	.slideTop{
+		top: 25%;
+		left: 0px;
+	}
+
+}
+/* ====================================
+MEDIA END
+=====================================*/

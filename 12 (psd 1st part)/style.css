@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/* ==============================================
+START
+============================================== */
+.header{
+	background-color: #87509c;
+	max-width: 1440px;
+	width: 100%;
+}
+.navBar{
+	width: 83%;
+	margin: 0 auto;
+	padding: 30px 0;
+	color: white;
+}
+.logo{
+	padding-left: 30px;
+}
+.navList{
+	float: right;
+	padding: 10px 30px;
+}
+span{
+	text-decoration: none;
+	padding: 0 10px;
+	font-family: titilliumWeb Regular;
+	font-weight: 400;
+}
+.home{
+	background-color: #643a79;
+}
+.heading{
+	text-align: center;
+	padding: 140px 30px;
+}
+h2{
+	font-weight: bold;
+	color: white;
+	padding-bottom: 50px;
+}
+button{
+	background-color: #eb7d4b;
+	width: 295px;
+	height: 67px;
+	border: 1px solid #eb7d4b;
+	border-bottom: 5px solid #c86a40;
+	color: white;
+}
+/* ==============================================
+END
+============================================== */
+/* ==============================================
+START
+============================================== */
+.footer{
+	background-color: #17c2a4;
+	max-width: 1440px;
+	width: 100%;
+}
+.fHeading{
+	text-align: center;
+}
+hr{
+	width: 100px;
+	margin: auto;
+}
+.fTxt{
+	width: 85%;
+	margin: auto;
+	padding-top: 120px;
+}
+.fRow{
+	text-align: center;
+}
+.imgBtm{
+	margin: 50px 0;
+}
+
+
+/* ==============================================
+END
+============================================== */
+
+@media selector and (max-width: 960px) {
+	
+}
+@media selector and (max-width: 960px) {
+	
+}
+@media selector and (max-width: 960px) {
+	
+}
+@media selector and (max-width: 480px) {
+	
+}

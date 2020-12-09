@@ -1,0 +1,59 @@
+#nav-img{
+    width: 50px;
+    float: left;
+}
+.nav-img:hover{
+    background-color: gray;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 5px;
+}
+li:hover{
+    color: lightgray;
+}
+li:active{
+    color: green;
+}
+.nBar{
+    float: right;
+    margin-right: 20px;
+}
+.bar{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 98%;
+    margin: auto;
+    height: 50px;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    color: blue;
+}
+body{
+    margin: 0;
+    background-image: url("b.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 1000px;
+    background-attachment: fixed;
+}
+.header{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+h1{
+    margin-bottom: 30px;
+}
+button{
+    width: 130px;
+    height: 40px;
+    background-color:rgb(226, 101, 226);
+    border: 1px solid black;
+}
+button:hover{
+    background-color: palegoldenrod;
+}

@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    max-width: 1440px;
+    width: 100%;
+}
+/* =========================
+START HEADER
+==========================*/
+.header{
+    background-color: #e7f1f8;
+    text-align: center;
+}
+.heading{
+    padding-top: 120px;
+    padding-bottom: 70px;
+}
+hr{
+    width: 100px;
+    margin: auto;
+}
+.topRow{
+    width: 85%;
+    margin: 0 auto !important;
+    padding-bottom: 120px;
+}
+.grayImg{
+    padding-bottom: 30px;
+}
+.pTop{
+    margin: 30px 0;
+}
+
+/* =========================
+END HEADER
+==========================*/
+/* =========================
+START MAIN
+==========================*/
+.main{
+    text-align: center;
+    padding: 110px 0;
+}
+.rowMdl{
+    width: 85%;
+    margin: 0 auto !important;
+}
+.headingMain{
+    width: 40%;
+    margin: 0 auto;
+}
+.percentage{
+    padding: 20px 0;
+}
+
+
+/* =========================
+END MAIN
+==========================*/
+/* =========================
+START FOOTER
+==========================*/
+.footer{
+    background-color: #ffdd99;
+    text-align: center;
+    padding: 100px 0;
+}
+.headingBtm{
+    width: 40%;
+    margin: 0 auto;
+}
+.awai{
+    padding: 0 10px;
+    margin: 0 3px;
+    border: 0px solid;
+    border-radius: 3px;
+}
+.bgwhite{
+    background-color: white;
+}
+.bggray{
+    background-color: #ebc985;
+}
+.buttons{
+    margin: 20px 0 30px 0;
+}
+.rowBtm{
+    width: 100%;
+    margin: 0 auto !important;
+}
+.com{
+    margin: 30px 0px;
+    overflow: hidden;
+}
+.btmbtn{
+    background-color: #17c2a4;
+    width: 290px;
+    height: 60px;
+    border: 1px solid #17c2a4;
+    border-radius: 3px;
+    border-bottom: 5px solid #14a58c;
+    margin: 50px 0;
+}
+/* =========================
+END FOOTER
+==========================*/
+@media screen and (max-width: 768px) {
+    .comImg{
+        width: 100%;
+    }
+}

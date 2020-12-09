@@ -1,0 +1,19 @@
+table,th,td{
+    border: 1px solid gray;
+    border-collapse: separate;
+}
+
+table{
+    width: 40%;
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 70px;
+}
+a{
+    text-decoration: none;
+} 
+ul{
+    list-style: circle;
+}

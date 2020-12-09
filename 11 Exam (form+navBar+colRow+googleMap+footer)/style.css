@@ -1,0 +1,22 @@
+body{
+    padding-top: 50px;
+}
+
+.gender{
+    padding-right: 130px;
+}
+@media screen and (max-width: 1200px) {
+    .gender{
+        padding-right: 100px;
+    }
+}
+@media screen and (max-width: 992px) {
+    .gender{
+        padding-right: 60px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .gender{
+        padding-right: 30px;
+    }
+}

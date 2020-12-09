@@ -1,0 +1,43 @@
+body{
+    background-image: url(a.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+img{
+    width: 100px;
+    height: 70px;
+}
+table{
+    width: 60%;
+    border-collapse: collapse;
+    text-align: center;
+}
+.cb{
+    background-color: rgb(219, 170, 152);
+}
+.th{
+    background-color: coral;
+}
+table,td,th{
+    border: 1px solid black;
+}
+tr:nth-child(odd){
+    background-color: lightgray;
+}
+tr td:hover{
+    background-color: pink;
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+a:hover{
+    text-decoration: underline;
+}
+span{
+    color: blue;
+}
+span:hover{
+    color: pink;
+}

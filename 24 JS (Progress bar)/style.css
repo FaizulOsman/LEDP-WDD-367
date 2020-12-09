@@ -1,0 +1,46 @@
+.heading_progress{
+  text-align: center;
+}
+.text_align{
+  text-align: center;
+}
+svg.radial-progress {
+  height: auto;
+  max-width: 200px;
+  padding: 1em;
+  transform: rotate(-90deg);
+  width: 100%;
+}
+
+svg.radial-progress circle {
+  fill: rgba(0,0,0,0);
+  stroke: ;
+  stroke-dashoffset: 219.91148575129; 
+  stroke-width: 7;
+}
+
+svg.radial-progress circle.incomplete { opacity: 0.25; }
+
+svg.radial-progress circle.complete { stroke-dasharray: 219.91148575129; }
+
+svg.radial-progress text {
+  fill: black;
+  text-anchor: middle;
+}
+
+svg.html circle{
+  stroke: #30BAE7;
+}
+
+svg.css circle{
+  stroke: #D74680;
+}
+
+svg.javascript circle{
+  stroke: #12AF94;
+}
+
+svg.jquery circle{
+  stroke: #FB7D4B;
+}
+

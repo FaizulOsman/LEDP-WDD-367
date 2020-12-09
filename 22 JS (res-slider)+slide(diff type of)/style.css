@@ -1,0 +1,131 @@
+/* ====================================
+ START
+=====================================*/
+/*nav{
+	background-color: black;
+	position: sticky;
+	top: 0;
+	z-index: 1;
+}
+.nav-itm{
+	padding: 12px 24px;
+}
+.nav-lnk{
+	color: white;
+}*/
+
+
+/* ====================================
+ END
+=====================================*/
+/* ====================================
+ START
+=====================================*/
+/*.the-Band{
+	width: 57%;
+	margin: 0 auto;
+	padding: 73px 0;
+}
+.aboutDetails{
+	text-align: center;
+}
+.title{
+	font-size: 30px;
+	letter-spacing: 4px;
+}
+.wlm{
+	color: lightgray;
+}
+*/
+
+/* ====================================
+ END
+=====================================*/
+
+/* ====================================
+ START
+=====================================*/
+
+
+/*.class{
+	background-color: gray;
+	font-size: 30px;
+	font-weight: bold;
+}*/
+
+/* ====================================
+ END
+=====================================*/
+
+/* ====================================
+ START
+=====================================*/
+
+
+
+/* ====================================
+ END
+=====================================*/
+
+/* ====================================
+ START
+=====================================*/
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+/* ====================================
+ END
+=====================================*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ====================================
+MEDIA START
+=====================================*/
+
+/*@media screen and (max-width: 1440px) {
+	
+}*/
+/* ====================================
+MEDIA END
+=====================================*/
